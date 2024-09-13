@@ -1,6 +1,6 @@
 <header>
   <h2>Hello & Welcome!! / Olá, Bem vindo!!</h2>
-  <h3>Fell free to wander around and have a look at my projects :)</h3>
+  <h3>Fell free to wander around and have a look at my projects :)<br>Currently studying Computer Engeneering and Software Development</h3>
 </header>
 <div class= "graphs"> 
   <a href="https://github.com/GabrAlvSM">
