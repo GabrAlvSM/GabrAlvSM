@@ -43,9 +43,9 @@ Tenho interesse em integrar diferentes tecnologias — desde sistemas web até a
 
 ## 📊 Estatísticas
 
-<p align="center">
-  <img height="160em" src="https://streak-stats.demolab.com?user=GabrAlvSM&theme=tokyonight" />
-  <img height="160em" src="https://github-readme-activity-graph.vercel.app/graph?username=GabrAlvSM&theme=tokyo-night" />
+<p align="  ">
+  <img height="180em" src="https://streak-stats.demolab.com?user=GabrAlvSM&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=GabrAlvSM&theme=tokyo-night" />
 </p>
 ---
 
