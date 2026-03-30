@@ -33,7 +33,7 @@ Tenho interesse em integrar diferentes tecnologias — desde sistemas web até a
 ### ⚙️ Outras Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,linux,docker,arduino,cmake,github" />
+  <img src="https://skillicons.dev/icons?i=figma,linux,docker,arduino,cmake,github,html,css" />
 </p>
 
 * Automação com n8n
