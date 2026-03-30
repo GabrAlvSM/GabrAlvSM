@@ -21,19 +21,19 @@ Tenho interesse em integrar diferentes tecnologias — desde sistemas web até a
 ### 💻 Linguagens
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,js,java,python" />
+  <img src="https://skillicons.dev/icons?i=php,js,java,py,c,cpp" />
 </p>
 
 ### 🗄️ Banco de Dados
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlserver, postgres" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
 </p>
 
 ### ⚙️ Outras Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=arduino,linux" />
+  <img src="https://skillicons.dev/icons?i=figma,debian,docker,arduino,cmake,github" />
 </p>
 
 * Automação com n8n
@@ -47,8 +47,6 @@ Tenho interesse em integrar diferentes tecnologias — desde sistemas web até a
   <img height="160em" src="https://streak-stats.demolab.com?user=GabrAlvSM&theme=tokyonight" />
   <img height="160em" src="https://github-readme-activity-graph.vercel.app/graph?username=GabrAlvSM&theme=tokyo-night" />
 </p>
-
-![Stats](https://github-readme-stats.vercel.app/api?username=GabrAlvSM)
 ---
 
 ## 🔥 O que eu curto fazer
@@ -64,7 +62,7 @@ Tenho interesse em integrar diferentes tecnologias — desde sistemas web até a
 ## 🐧 Ambiente
 
 ```bash
-OS: Linux
+OS: Linux - Debian
 Editor: VS Code / Nano / Vim
 ```
 
